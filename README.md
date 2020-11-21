@@ -27,10 +27,3 @@ Week 2: Word Embeddings\
 Week 3: Sequence Models\
 Week 4: Sequence models and literature
 
-
-### Course 4: Sequences, Time Series and Prediction
-
-Week 1: Sequences and Prediction\
-Week 2: Deep Neural Networks for Time Series\
-Week 3: Recurrent Neural Networks for Time Series\
-Week 4: Real-world time series data
